@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-the Solution to the nqueens problem
+Solution to the nqueens problem
 """
 import sys
 
@@ -42,7 +42,7 @@ def nqueens(n):
         n (int): number of queens. Must be >= 4
     Return:
         List of lists representing coordinates of each
-        queen
+        queen for all possible solutions
     """
     cols = set()
     pos_diag = set()

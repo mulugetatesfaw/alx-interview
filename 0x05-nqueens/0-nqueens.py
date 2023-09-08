@@ -50,4 +50,4 @@ if __name__ == '__main__':
         sys.exit(1)
 
     """Solve the N-queens problem"""
-    nqueens(N)i
+    nqueens(N)
